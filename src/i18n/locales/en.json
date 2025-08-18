@@ -1,0 +1,276 @@
+{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "about": "About Us",
+    "submit": "Submit Template",
+    "dashboard": "Dashboard",
+    "support": "Support",
+    "contact": "Contact Us",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional Email Template Service",
+      "subtitle": "Transform your email marketing with our professional template creation and management service. Reach more customers with beautifully designed, compliant email templates.",
+      "cta": "Get Started Today",
+      "learnMore": "Learn More"
+    },
+    "features": {
+      "title": "Why Choose Our Service?",
+      "template": {
+        "title": "Professional Templates",
+        "description": "Custom-designed email templates that reflect your brand and drive engagement."
+      },
+      "compliance": {
+        "title": "Compliance Ready",
+        "description": "All templates meet industry standards and email provider requirements."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Our expert team is always available to help you succeed."
+      }
+    },
+    "steps": {
+      "title": "How It Works",
+      "submit": {
+        "title": "1. Submit Your Requirements",
+        "description": "Upload your content and company information through our simple form."
+      },
+      "review": {
+        "title": "2. Professional Review",
+        "description": "Our team reviews and optimizes your template for maximum impact."
+      },
+      "deliver": {
+        "title": "3. Receive & Deploy",
+        "description": "Get your approved template and start your email campaigns."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Select the perfect plan based on your email volume needs",
+    "monthly": "Monthly",
+    "annually": "Annually",
+    "popular": "Most Popular",
+    "emailsPerDay": "emails/day",
+    "features": "Features included:",
+    "selectPlan": "Select Plan",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "features": [
+          "Professional template design",
+          "Basic compliance check",
+          "Email support",
+          "1 revision included",
+          "Mobile responsive design"
+        ]
+      },
+      "professional": {
+        "name": "Professional", 
+        "features": [
+          "Everything in Starter",
+          "Priority support",
+          "Advanced compliance check",
+          "3 revisions included",
+          "A/B testing templates",
+          "Analytics integration"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "features": [
+          "Everything in Professional",
+          "Dedicated account manager",
+          "Unlimited revisions",
+          "Custom branding",
+          "API access",
+          "Advanced reporting"
+        ]
+      }
+    }
+  },
+  "submitTemplate": {
+    "title": "Submit Email Template",
+    "subtitle": "Provide your template details and company information",
+    "templateInfo": "Template Information",
+    "companyInfo": "Company Information",
+    "fields": {
+      "title": "Template Title",
+      "titlePlaceholder": "Enter template title",
+      "subject": "Email Subject Line",
+      "subjectPlaceholder": "Enter email subject",
+      "content": "Email Content",
+      "contentPlaceholder": "Enter your email content or HTML",
+      "companyName": "Company Name",
+      "companyNamePlaceholder": "Your company name",
+      "location": "Company Location",
+      "locationPlaceholder": "City, Country",
+      "website": "Website URL",
+      "websitePlaceholder": "https://yourcompany.com",
+      "phone": "Contact Phone",
+      "phonePlaceholder": "+49 1575 712 9020"
+    },
+    "preview": "Preview",
+    "submit": "Submit Template",
+    "success": "Template submitted successfully! You can track its status in your dashboard."
+  },
+  "common": {
+    "demo": "Demo:",
+    "demoInstructions": "use any password to login.",
+    "note": "Note:",
+    "and": "and"
+  },
+  "support": {
+    "pill": "Get In Touch",
+    "title": "Contact Us",
+    "subtitle": "Have questions about our services? Need help with your email templates? We're here to help you succeed.",
+    "info": {
+      "title": "Contact Information",
+      "emailTitle": "Email",
+      "phoneTitle": "Phone",
+      "officeTitle": "Office",
+      "responseTime": "We respond within 24 hours",
+      "businessHours": "MON-FRI 9:00 AM-6:00 PM CST"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "subtitle": "We'd love to hear from you. Fill out the form below and we'll get back to you soon."
+    },
+    "fields": {
+      "name": "Full Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "company": "Company Name",
+      "companyPlaceholder": "Your company",
+      "subject": "Subject",
+      "message": "Message",
+      "messagePlaceholder": "Tell us how we can help you..."
+    },
+    "selectSubject": "Select a subject",
+    "subjects": {
+      "general": "General Inquiry",
+      "template": "Template Question",
+      "pricing": "Pricing Information",
+      "technical": "Technical Support",
+      "partnership": "Partnership"
+    },
+    "sending": "Sending...",
+    "send": "Send Message"
+  },
+  "dashboard": {
+    "title": "Template Dashboard",
+    "subtitle": "Manage and track your submitted templates",
+    "noTemplates": "No templates submitted yet.",
+    "submitFirst": "Submit your first template",
+    "status": {
+      "pending": "Pending Review",
+      "approved": "Approved",
+      "rejected": "Rejected"
+    },
+    "actions": "Actions",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+  "about": {
+    "pill": "Our Story",
+    "title": "About ServiceMitteilung",
+    "description": "We're passionate about helping businesses create professional email campaigns that drive results. Founded in 2020, we've grown from a small startup to a trusted partner for thousands of companies worldwide.",
+    "mission": {
+      "title": "Our Mission",
+      "description": "To democratize professional email marketing by providing businesses of all sizes with expertly crafted, compliant email templates that drive engagement and conversions."
+    },
+    "features": {
+      "template": "Professional template design",
+      "compliance": "Email compliance expertise",
+      "turnaround": "Fast turnaround times"
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "Our diverse team of experts brings together decades of experience in email marketing, design, and technology to serve you better."
+    },
+    "stats": {
+      "clients": "Happy Clients",
+      "templates": "Templates Created",
+      "countries": "Countries Served",
+      "uptime": "Uptime"
+    }
+  },
+  
+  "auth": {
+    "login": {
+      "title": "Sign In",
+      "subtitle": "Welcome back! Please sign in to your account.",
+      "email": "Email Address",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up here",
+      "placeholderEmail": "demo@example.com",
+      "placeholderPassword": "Enter any password",
+      "rememberMe": "Remember me",
+      "signingIn": "Signing In..."
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Join us today and start creating amazing email templates.",
+      "name": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "company": "Company Name (Optional)",
+      "signUp": "Create Account",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in here",
+      "postRegisterNote": "After registration, you'll need to verify your email address before you can log in.",
+      "checkEmailTitle": "Check Your Email!",
+      "sentTo": "We've sent a verification email to",
+      "sentInstructions": "Please check your inbox and click the verification link to activate your account. The link will expire in 24 hours.",
+      "didntReceive": "Didn't receive the email? Check your spam folder or contact support.",
+      "placeholderName": "John Doe",
+      "placeholderEmail": "john@company.com",
+      "placeholderCompany": "Your Company",
+      "placeholderPassword": "••••••••",
+      "placeholderConfirmPassword": "••••••••",
+      "verificationSent": "Verification Email Sent",
+      "creatingAccount": "Creating Account...",
+      "agreeTo": "I agree to the"
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View"
+  },
+  "footer": {
+    "company": "ServiceMitteilung",
+    "description": "Professional email template creation and management service for businesses of all sizes.",
+    "links": {
+      "about": "About Us",
+      "privacy": "Privacy Policy", 
+      "terms": "Terms of Service",
+      "contact": "Contact Us"
+    },
+    "contact": {
+      "title": "Contact Info",
+      "email": "support@servicemitteilung.de",
+      "phone": "+49 1575 712 9020",
+      "address": "Bockenheimer Landstraße 17–19, 60325 Frankfurt am Main, Germany"
+    },
+    "rights": "© 2025 ServiceMitteilung. All rights reserved."
+  }
+}

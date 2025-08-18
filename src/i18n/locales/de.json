@@ -1,0 +1,260 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise",
+    "faq": "FAQ",
+    "about": "Über Uns",
+    "submit": "Vorlage Einreichen",
+    "dashboard": "Dashboard",
+    "support": "Support",
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "logout": "Abmelden"
+  },
+  "home": {
+    "hero": {
+      "title": "Professioneller E-Mail-Vorlagen Service",
+      "subtitle": "Transformieren Sie Ihr E-Mail-Marketing mit unserem professionellen Service für die Erstellung und Verwaltung von Vorlagen. Erreichen Sie mehr Kunden mit wunderschön gestalteten, konformen E-Mail-Vorlagen.",
+      "cta": "Heute Starten",
+      "learnMore": "Mehr Erfahren"
+    },
+    "features": {
+      "title": "Warum Unseren Service Wählen?",
+      "template": {
+        "title": "Professionelle Vorlagen",
+        "description": "Individuell gestaltete E-Mail-Vorlagen, die Ihre Marke widerspiegeln und das Engagement fördern."
+      },
+      "compliance": {
+        "title": "Konform",
+        "description": "Alle Vorlagen erfüllen Industriestandards und E-Mail-Anbieter-Anforderungen."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "description": "Unser Expertenteam ist immer verfügbar, um Ihnen zum Erfolg zu verhelfen."
+      }
+    },
+    "steps": {
+      "title": "So Funktioniert's",
+      "submit": {
+        "title": "1. Anforderungen Einreichen",
+        "description": "Laden Sie Ihren Inhalt und Firmendaten über unser einfaches Formular hoch."
+      },
+      "review": {
+        "title": "2. Professionelle Überprüfung",
+        "description": "Unser Team überprüft und optimiert Ihre Vorlage für maximale Wirkung."
+      },
+      "deliver": {
+        "title": "3. Erhalten & Einsetzen",
+        "description": "Erhalten Sie Ihre genehmigte Vorlage und starten Sie Ihre E-Mail-Kampagnen."
+      }
+    }
+  },
+  "pricing": {
+    "title": "Wählen Sie Ihren Plan",
+    "subtitle": "Wählen Sie den perfekten Plan basierend auf Ihrem E-Mail-Volumen",
+    "monthly": "Monatlich",
+    "annually": "Jährlich",
+    "popular": "Beliebteste",
+    "emailsPerDay": "E-Mails/Tag",
+    "features": "Enthaltene Features:",
+    "selectPlan": "Plan Wählen",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "features": [
+          "Professionelles Vorlagendesign",
+          "Basis Compliance-Check",
+          "E-Mail Support",
+          "1 Überarbeitung inklusive",
+          "Mobile responsive Design"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "features": [
+          "Alles aus Starter",
+          "Prioritäts-Support",
+          "Erweiterte Compliance-Prüfung",
+          "3 Überarbeitungen inklusive",
+          "A/B Testing Vorlagen",
+          "Analytics Integration"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "features": [
+          "Alles aus Professional",
+          "Dedicated Account Manager",
+          "Unbegrenzte Überarbeitungen",
+          "Custom Branding",
+          "API Zugang",
+          "Erweiterte Berichte"
+        ]
+      }
+    }
+  },
+  "submitTemplate": {
+    "title": "E-Mail-Vorlage Einreichen",
+    "subtitle": "Geben Sie Ihre Vorlagendetails und Firmeninformationen an",
+    "templateInfo": "Vorlageninformationen",
+    "companyInfo": "Firmeninformationen",
+    "fields": {
+      "title": "Vorlagentitel",
+      "titlePlaceholder": "Vorlagentitel eingeben",
+      "subject": "E-Mail Betreffzeile",
+      "subjectPlaceholder": "E-Mail Betreff eingeben",
+      "content": "E-Mail Inhalt",
+      "contentPlaceholder": "Geben Sie Ihren E-Mail-Inhalt oder HTML ein",
+      "companyName": "Firmenname",
+      "companyNamePlaceholder": "Ihr Firmenname",
+      "location": "Firmenstandort",
+      "locationPlaceholder": "Stadt, Land",
+      "website": "Website URL",
+      "websitePlaceholder": "https://ihrefirma.de",
+      "phone": "Kontakt Telefon",
+      "phonePlaceholder": "+49 1575 712 9020"
+    },
+    "preview": "Vorschau",
+    "submit": "Vorlage Einreichen",
+    "success": "Vorlage erfolgreich eingereicht! Sie können den Status in Ihrem Dashboard verfolgen."
+  },
+  "dashboard": {
+    "title": "Vorlagen Dashboard",
+    "subtitle": "Verwalten und verfolgen Sie Ihre eingereichten Vorlagen",
+    "noTemplates": "Noch keine Vorlagen eingereicht.",
+    "submitFirst": "Reichen Sie Ihre erste Vorlage ein",
+    "status": {
+      "pending": "Zur Überprüfung",
+      "approved": "Genehmigt",
+      "rejected": "Abgelehnt"
+    },
+    "actions": "Aktionen",
+    "view": "Ansehen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen"
+  },
+  "support": {
+    "title": "Support Kontaktieren",
+    "subtitle": "Benötigen Sie Hilfe? Unser Team ist da, um Ihnen zu helfen.",
+    "fields": {
+      "name": "Ihr Name",
+      "namePlaceholder": "Namen eingeben",
+      "email": "E-Mail Adresse",
+      "emailPlaceholder": "ihre@email.de",
+      "company": "Firmenname",
+      "companyPlaceholder": "Ihr Unternehmen",
+      "message": "Nachricht",
+      "messagePlaceholder": "Wie können wir Ihnen helfen?"
+    },
+    "send": "Nachricht Senden",
+    "success": "Nachricht erfolgreich gesendet! Wir melden uns innerhalb von 24 Stunden bei Ihnen."
+  },
+  "auth": {
+    "login": {
+      "placeholderEmail": "demo@example.com",
+      "placeholderPassword": "Geben Sie ein Passwort ein",
+      "rememberMe": "Angemeldet bleiben",
+      "signingIn": "Anmeldung..."
+    },
+    "register": {
+      "postRegisterNote": "Nach der Registrierung müssen Sie Ihre E-Mail-Adresse verifizieren, bevor Sie sich anmelden können.",
+      "checkEmailTitle": "Überprüfen Sie Ihre E-Mails!",
+      "sentTo": "Wir haben eine Bestätigungs-E-Mail gesendet an",
+      "sentInstructions": "Bitte prüfen Sie Ihren Posteingang und klicken Sie auf den Bestätigungslink, um Ihr Konto zu aktivieren. Der Link läuft in 24 Stunden ab.",
+      "didntReceive": "Keine E-Mail erhalten? Überprüfen Sie den Spam-Ordner oder kontaktieren Sie den Support.",
+      "placeholderName": "John Doe",
+      "placeholderEmail": "john@company.com",
+      "placeholderCompany": "Ihr Unternehmen",
+      "placeholderPassword": "••••••••",
+      "placeholderConfirmPassword": "••••••••",
+      "verificationSent": "Bestätigungs-E-Mail gesendet",
+      "creatingAccount": "Konto wird erstellt...",
+      "agreeTo": "Ich stimme zu"
+    }
+  },
+  "common": {
+    "demo": "Demo:",
+    "demoInstructions": "verwenden Sie ein beliebiges Passwort zum Anmelden.",
+    "note": "Hinweis:",
+    "and": "und"
+  },
+  "auth": {
+    "login": {
+      "title": "Anmelden",
+      "subtitle": "Willkommen zurück! Bitte melden Sie sich in Ihrem Konto an.",
+      "email": "E-Mail Adresse",
+      "password": "Passwort",
+      "forgotPassword": "Passwort vergessen?",
+      "signIn": "Anmelden",
+      "noAccount": "Haben Sie kein Konto?",
+      "signUp": "Hier registrieren"
+    },
+    "register": {
+      "title": "Konto Erstellen",
+      "subtitle": "Treten Sie noch heute bei und beginnen Sie mit der Erstellung großartiger E-Mail-Vorlagen.",
+      "name": "Vollständiger Name",
+      "email": "E-Mail Adresse",
+      "password": "Passwort",
+      "confirmPassword": "Passwort Bestätigen",
+      "company": "Firmenname (Optional)",
+      "signUp": "Konto Erstellen",
+      "hasAccount": "Haben Sie bereits ein Konto?",
+      "signIn": "Hier anmelden"
+    }
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolg!",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "view": "Ansehen"
+  },
+  "footer": {
+    "company": "ServiceMitteilung",
+    "description": "Professioneller Service für die Erstellung und Verwaltung von E-Mail-Vorlagen für Unternehmen jeder Größe.",
+    "links": {
+      "about": "Über Uns",
+      "privacy": "Datenschutz",
+      "terms": "Nutzungsbedingungen",
+      "contact": "Kontakt"
+    },
+    "contact": {
+      "title": "Kontaktdaten",
+      "email": "support@servicemitteilung.de",
+      "phone": "+49 1575 712 9020",
+      "address": "Bockenheimer Landstraße 17–19, \n 60325 Frankfurt am Main, \n Germany"
+    },
+    "rights": "© 2025 ServiceMitteilung. Alle Rechte vorbehalten."
+  }
+  ,
+  "about": {
+    "pill": "Unsere Geschichte",
+    "title": "Über ServiceMitteilung",
+    "description": "Wir sind leidenschaftlich dabei, Unternehmen zu helfen, professionelle E-Mail-Kampagnen zu erstellen, die Ergebnisse liefern. Gegründet im Jahr 2020, sind wir von einem kleinen Start-up zu einem vertrauenswürdigen Partner für Tausende von Unternehmen weltweit gewachsen.",
+    "mission": {
+      "title": "Unsere Mission",
+      "description": "Unsere Mission ist es, professionelles E-Mail-Marketing zu demokratisieren, indem wir Unternehmen jeder Größe fachgerecht gestaltete, konforme E-Mail-Vorlagen bieten, die Engagement und Konversionen steigern."
+    },
+    "features": {
+      "template": "Professionelles Vorlagendesign",
+      "compliance": "E-Mail-Konformitäts-Expertise",
+      "turnaround": "Schnelle Bearbeitungszeiten"
+    },
+    "team": {
+      "title": "Lernen Sie unser Team kennen",
+      "subtitle": "Unser vielfältiges Expertenteam bringt jahrzehntelange Erfahrung in E-Mail-Marketing, Design und Technologie zusammen, um Sie besser zu bedienen."
+    },
+    "stats": {
+      "clients": "Zufriedene Kunden",
+      "templates": "Erstellte Vorlagen",
+      "countries": "Bediente Länder",
+      "uptime": "Verfügbarkeit"
+    }
+  }
+}
