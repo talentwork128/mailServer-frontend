@@ -1,4 +1,5 @@
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+console.log('!!!!!!!!!API Base URL:', API_BASE_URL);
 
 // Get auth token from localStorage
 const getAuthToken = (): string | null => {
@@ -37,7 +38,7 @@ const apiRequest = async <T>(
   options: RequestInit = {}
 ): Promise<T> => {
   const url = `${API_BASE_URL}${endpoint}`;
-  
+  console.log('!!!!!!!!!API Base URL:', API_BASE_URL);
   const response = await fetch(url, {
     ...options,
     headers: {
